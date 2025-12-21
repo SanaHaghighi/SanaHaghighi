@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="50"/><br>
   <b>Portfolio</b><br>
-  <a href="[https://your-portfolio-link.com](https://well-blouse-e82.notion.site/125cfbb04ac880c0803dea975436cf6d?v=125cfbb04ac881fda6c7000c8da6548e)">View Projects</a>
+  <a href="[(https://well-blouse-e82.notion.site/125cfbb04ac880c0803dea975436cf6d?v=125cfbb04ac881fda6c7000c8da6548e)]">View Projects</a>
 </p>
 </td>
 <td width="33%">
