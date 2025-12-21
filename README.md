@@ -21,9 +21,6 @@ Designing research‑driven interactive systems for learning & engagement
 
 ---
 
----
-
----
 
 ## 🌐 Connect with me
 
