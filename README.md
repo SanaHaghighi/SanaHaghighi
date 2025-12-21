@@ -1,8 +1,3 @@
-### Hi there 👋
-   ### 🧩 Research Profiles
-   - [Google Scholar](https://scholar.google.com/citations?user=XXXXXX)
-   - [ORCID](https://orcid.org/0009-0008-8401-0367)
-
 <h1 align="center">Hi 👋, I'm Sana Haghighi</h1>
 <h3 align="center">Computer Engineering | HCI & UX Research</h3>
 
