@@ -98,16 +98,6 @@ My work focuses on understanding how people **think, learn, and interact** with 
 
 ---
 
-## 🛠 Build, Prototype & Iterate
-
-> *Prototypes are questions — iteration reveals answers*
-
-### 🎯 Expertise
-- 🎮 Unity‑based Interactive Systems
-- 📚 Game‑Based Learning Environments
-- 💻 Front‑end Collaboration & Prototyping
-- 🤖 Computer Vision & ML Prototypes
-
 ### 🛠️ Technical Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
