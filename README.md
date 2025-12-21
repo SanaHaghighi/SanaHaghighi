@@ -23,19 +23,31 @@ Designing research‑driven interactive systems for learning & engagement
 
 ## 🌐 Connect with me
 
-<p align="left">
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Selected%20Works%20%26%20Case%20Studies-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<br><br>
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br><br>
-<a href="mailto:sanaa.haghighi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sanaa.haghighi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+<b>▸ PORTFOLIO</b><br>
+<span style="color:gray">Selected works & UX / research case studies</span><br>
+<a href="https://your-portfolio-link.com">https://your-portfolio-link.com</a>
+</p>
+
+<br>
+
+<p>
+<b>▸ LINKEDIN</b><br>
+<span style="color:gray">Professional prof & academic background</span><br>
+<a href="https://www.linkedin.com/in/your-linkedin-id">
+linkedin.com/in/your-linkedin-id
 </a>
 </p>
+
+<br>
+
+<p>
+<b>▸ EMAIL</b><br>
+<a href="mailto:sanaa.haghighi@gmail.com">sanaa.haghighi@gmail.com</a>
+</p>
+
+---
+
 
 ---
 
