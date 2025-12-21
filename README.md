@@ -23,29 +23,27 @@ Designing research‑driven interactive systems for learning & engagement
 
 ---
 
+---
+
 ## 🌐 Connect with me
 
-<p align="left">
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/notion/FFFFFF" width="22" />
-  &nbsp;<b>Portfolio</b> — Selected works & case studies
-</a>
-</p>
+🔺 **Portfolio**  
+Selected works & UX / research case studies  
+https://your-portfolio-link.com  
 
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" />
-  &nbsp;<b>LinkedIn</b> — Professional profile
-</a>
-</p>
+<br>
 
-<p align="left">
-<a href="mailto:sanaa.haghighi@gmail.com">
-  <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" width="22" />
-  &nbsp;<b>Email</b> — sanaa.haghighi@gmail.com
-</a>
-</p>
+🔗 **LinkedIn**  
+Professional & academic profile  
+https://linkedin.com/in/your-linkedin-id  
+
+<br>
+
+✉ **Email**  
+sanaa.haghighi@gmail.com  
+
 ---
+
 
 ## 🧠 Why I Design
 I’m a **Computer Engineering graduate** specializing in **Human–Computer Interaction and UX research**.  
