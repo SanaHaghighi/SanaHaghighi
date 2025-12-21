@@ -2,107 +2,69 @@
 
 <p align="center">
 <b>Human–Computer Interaction · UX Research · Product Design</b><br>
-Designing research‑driven interactive systems for learning & engagement
+Research‑driven interactive systems for learning & engagement
 </p>
 
 <br>
 
 <p align="center">
-<a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Research%20Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<a href="https://scholar.google.com/citations?user=XXXXXX">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://orcid.org/0009-0008-8401-0367" target="_blank">
-  <img src="https://img.shields.io/badge/ORCID-Academic%20Identity-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-
+&nbsp;
+<a href="https://orcid.org/0009-0008-8401-0367">
+  <img src="https://img.shields.io/badge/ORCID-Academic%20ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 </p>
 
-
 ---
 
+## 🌐 Connect
 
-## 🌐 Connect with me
-
-🔺 **Portfolio**  
-Selected works & UX / research case studies  
+🔺 **Portfolio** — UX & research case studies  
 https://your-portfolio-link.com  
 
-<br>
-
-🔗 **LinkedIn**  
-Professional & academic profile  
+🔗 **LinkedIn** — Professional profile  
 https://linkedin.com/in/your-linkedin-id  
-
-<br>
 
 ✉ **Email**  
 sanaa.haghighi@gmail.com  
 
 ---
 
-
-## 🧠 Why I Design
-I’m a **Computer Engineering graduate** specializing in **Human–Computer Interaction and UX research**.  
-My work focuses on understanding how people **think, learn, and interact** with systems — and translating those insights into **meaningful product decisions**.
-
-I design at the intersection of:
-**research × data × interaction × play**
+## 🧠 About
+Computer Engineering graduate focused on **HCI & UX research**.  
+I design systems grounded in **research, data, and interaction**.
 
 ---
 
-## 🔍 Research & Discovery
-*Understanding users before designing solutions*
+## 🔍 Research & UX
+- Qual + Quant UX Research
+- Interviews, Surveys, A/B Testing
+- Usability & Heuristic Evaluation
+- Behavioral & Statistical Analysis  
 
-- UX Research (Qualitative & Quantitative)
-- User Interviews & Focus Groups
-- Survey Design & A/B Testing
-- Heuristic Evaluation & Usability Testing
-- Affinity Mapping & Insight Translation
-- Statistical & Behavioral Data Analysis
-
-**Research Tools**  
-`SPSS` · `Google Analytics` · `Python (Pandas, NumPy)`
+`SPSS` · `Google Analytics` · `Python`
 
 ---
 
-## 🎨 Experience & Interaction Design
-*Shaping insights into structured experiences*
+## 🎨 Design
+- Interaction Design & IA
+- Wireframing & Prototyping
+- Design Systems & Gamification  
 
-- Interaction Design
-- Information Architecture
-- Wireframing & Rapid Prototyping
-- Design Systems
-- Color Psychology
-- Gamification & Motivation Design
-
-**Design Tools**  
 `Figma` · `Adobe XD` · `Miro`
 
 ---
 
-## 🛠 Build, Prototype & Iterate
-*Prototypes are questions — iteration reveals answers*
+## 🛠 Build
+- Unity‑based interactive systems
+- Game‑based learning
+- ML & Computer Vision prototypes  
 
-- Unity‑based Interactive Systems
-- Game‑Based Learning Environments
-- Front‑end Collaboration & Prototyping
-- Computer Vision & ML Prototypes
-
-**Technical Stack**  
-`Python` · `C++` · `OpenCV` · `Scikit‑learn` · `Git`
+`Python` · `C++` · `OpenCV` · `Git`
 
 ---
 
-## 📐 Design & Research DNA
-- User‑centered, not feature‑centered
-- Evidence over assumptions
-- Systems thinking
-- Storytelling with data
-- Design as experimentation
-
----
-
-## 🌍 Beyond Design
-Yoga · Visual Arts · Traveling · Hiking · Swimming  
-I believe great designers learn from life, not just interfaces.
+## 🌍 Beyond
+Yoga · Visual Arts · Travel · Nature
