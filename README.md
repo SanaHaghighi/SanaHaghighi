@@ -97,33 +97,12 @@ I design at the intersection of:
 
 ---
 
-## 🎮 Selected Work
-**📐 Game‑Based Learning Environment**  
-Designed and developed an interactive Unity game for teaching algebra using cognitive and user‑centered design principles.
-
-**📊 UX Research Case Study**  
-Led a mixed‑method evaluation combining user research and analytics to improve learning outcomes.
-
-**🧠 Focus Wave**  
-Designed a focus‑enhancement interface integrating UX design, task tracking, and user behavior insights.
-
-**🤖 Computer Vision Systems**  
-CNN‑based Persian digit recognition and autonomous object‑detection projects.
-
----
-
 ## 📐 Design & Research DNA
 - User‑centered, not feature‑centered
 - Evidence over assumptions
 - Systems thinking
 - Storytelling with data
 - Design as experimentation
-
----
-
-## 🎓 Academic Direction
-I aim to pursue a **Master’s in Human–Computer Interaction**,  
-focusing on **interactive systems, learning technologies, and evidence‑driven design**.
 
 ---
 
