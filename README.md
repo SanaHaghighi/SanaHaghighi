@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://scholar.google.com/citations?user=XXXXXX](https://scholar.google.com/citations?user=pwjZy5oAAAAJ&hl=en)">
+  <a href="https://scholar.google.com/citations?user=pwjZy5oAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/📚_Google_Scholar-Research-4285F4?style=for-the-badge" alt="Google Scholar"/>
   </a>
   <a href="https://orcid.org/0009-0008-8401-0367">
@@ -24,14 +24,14 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="50"/><br>
   <b>Portfolio</b><br>
-  <a href="[(https://well-blouse-e82.notion.site/125cfbb04ac880c0803dea975436cf6d?v=125cfbb04ac881fda6c7000c8da6548e)]">View Projects</a>
+  <a href="https://well-blouse-e82.notion.site/125cfbb04ac880c0803dea975436cf6d?v=125cfbb04ac881fda6c7000c8da6548e">View Projects</a>
 </p>
 </td>
 <td width="33%">
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50"/><br>
   <b>LinkedIn</b><br>
-  <a href="[https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sana-haghighi/)">Connect</a>
+  <a href="https://www.linkedin.com/in/sana-haghighi/">Connect</a>
 </p>
 </td>
 <td width="33%">
@@ -98,6 +98,16 @@ My work focuses on understanding how people **think, learn, and interact** with 
 
 ---
 
+## 🛠 Build, Prototype & Iterate
+
+> *Prototypes are questions — iteration reveals answers*
+
+### 🎯 Expertise
+- 🎮 Unity‑based Interactive Systems
+- 📚 Game‑Based Learning Environments
+- 💻 Front‑end Collaboration & Prototyping
+- 🤖 Computer Vision & ML Prototypes
+
 ### 🛠️ Technical Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -137,5 +147,5 @@ My work focuses on understanding how people **think, learn, and interact** with 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sanahaghighi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
